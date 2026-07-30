@@ -6,7 +6,7 @@
   
   body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #df4eec, #e2e0e4);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -59,8 +59,8 @@
   }
   
   #add-task {
-    background: #00c6ff;
-    background: linear-gradient(to right, #0072ff, #00c6ff);
+    background: #ebeff0;
+    background: linear-gradient(to right, #ebc6eb, #e79ae1);
     border: none;
     padding: 10px 14px;
     color: white;
